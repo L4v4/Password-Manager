@@ -1,0 +1,11 @@
+# Folders
+.vs
+__pycache__
+env
+test
+dist
+build
+
+# Files
+*.pyc
+*.spec
